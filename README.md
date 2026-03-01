@@ -1,8 +1,6 @@
 # DSA ROADMAP
 
-**Course Structure:** Data Structures & Algorithms  
-**Instructor:** Miss Sawera Naazz  
-**Teaching Assistant:** Hafiz Muhammad Moaz
+**Course Structure:** Data Structures & Algorithms
 
 > The course will primarily utilize C++ for implementation; however, supplementary examples in other programming languages may be introduced for comparative and conceptual purposes. Students are allowed to use any programming language for implementation.
 
